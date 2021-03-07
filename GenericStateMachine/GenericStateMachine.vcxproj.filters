@@ -21,6 +21,9 @@
     <ClCompile Include="GenericStateMachine.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="State.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GenericStateMachine.h">
@@ -29,10 +32,5 @@
     <ClInclude Include="State.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="State.cpp">
-      <Filter>Quelldateien</Filter>
-    </None>
   </ItemGroup>
 </Project>
